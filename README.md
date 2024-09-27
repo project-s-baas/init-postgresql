@@ -1,0 +1,1 @@
+docker build -t s-base-postgresql:latest .
